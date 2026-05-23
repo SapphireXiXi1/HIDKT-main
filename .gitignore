@@ -1,0 +1,18 @@
+# IDEA
+.idea/
+*.iml
+.vscode/
+__pycache__/
+.specstory/
+
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
