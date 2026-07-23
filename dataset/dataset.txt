@@ -1,6 +1,0 @@
-| 数据集 | 链接 |
-|--------|------|
-| Assist09 | https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data |
-| Assist15 | https://sites.google.com/site/assistmentsdata/home/2015-assistments-skill-builder-data |
-| Assist17 | https://sites.google.com/view/assistmentsdatamining |
-| Algebra05 | https://pslcdatashop.web.cmu.edu/KDDCup |
